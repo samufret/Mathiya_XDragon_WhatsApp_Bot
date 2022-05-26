@@ -9,26 +9,26 @@
 </p>
 
 <div align="center">
-<img src="https://telegra.ph/file/cbea859ed4228792132fe.jpg" alt="JPG" width="500" height="500"/>
+<img src="MathiyaBot.jpg" alt="JPG" width="500" height="500"/>
 </p>
 
 <div align="center">
   
-## [![BIXBY](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=5D0F99&lines=welcome+to+Bixby-mowl+Bot;+this+Bot+was+created+Ziyan;+this+is+the+first+wa+Bot+with+extraordinary+features )](https://bit.ly/2VM4lxF)
+## [![X_Dragon](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=5D0F99&lines=welcome+to+Mathiya-X_Dragon+Bot;+this+Bot+was+created+Sohan;+this+is+the+first+wa+Bot+with+extraordinary+features )](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="ZIYAN" src="https://img.shields.io/badge/ZIYAN-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sohan" src="https://img.shields.io/badge/Sohan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/RIPPER-SER
-"><img title="Author" src="https://img.shields.io/badge/Author-RIPPER-SER/_Bixby_Mowl_?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mathiya578
+"><img title="Author" src="https://img.shields.io/badge/Author-Sohan-Matheesha/_Mathiya_XDragon_?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/RIPPER-SER">ZIYAN</a> to make it public
+Project created by <a href="https://github.com/Mathiya578">Sohan</a> to make it public
     <br>
        | © |
         Reserved |
@@ -42,15 +42,15 @@ Project created by <a href="https://github.com/RIPPER-SER">ZIYAN</a> to make it 
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href= target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinura2003&show_icons=true&theme=dark&locale=en" alt="thinura2003 /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohan2006&show_icons=true&theme=dark&locale=en" alt="Sohan2006 /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RIPPER-SER&theme=dark" alt="RIPPER-SER" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-Matheesha&theme=dark" alt="Sohan Matheesha" /></p>
 </p>
 
 
@@ -60,7 +60,7 @@ Project created by <a href="https://github.com/RIPPER-SER">ZIYAN</a> to make it 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/DCMXCkQFxkAKIZPKb5MXnI" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
+  <a href="https://chat.whatsapp.com/CzUjcMD2GEO4WEdoSHGnOj" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
 </p>
 
 ### Simple Method
@@ -87,30 +87,8 @@ Click WA logo to Join Support Group 👇
   If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
 ```bash <(curl -L https://t.ly/tHxh)```
             
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/thinura2003/Bixby-Mowl
-$ cd Bixby-Mowl
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/thinura2003/Bixby-Mowl
-$ cd Bixby-Mowl
-$ chmod +x *
-$ npm i
-$ node Julie.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
+
+
 
 
 ### ⚠️ Warning! 
@@ -124,15 +102,15 @@ By establishing the Bixby Mowl , you are deemed to have accepted these responsib
 ## Developers
   <div align="center">
     
-  [![RIPPER-SER](https://github.com/RIPPER-SER.png?size=100)](https://github.com/RIPPER-SER) | [![MIDU-SER](https://github.com/MIDU-SER.png?size=100)](https://github.com/MIDU-SER) | [![Souravkl11](https://github.com/Alien-alfa.png?size=100)](https://github.com/souravkl11) 
+  [![Sohan-Matheesha](https://github.com/Mathiya578.png?size=100)]
 ----|----|----
-[ZIYAN](https://github.com/RIPPER-SER) | [MIDU-SER](https://github.com/MIDU-SER) | [Alien-Alfa](https://github.com/Alien-alfa)
-Author , Base, Bug Fixes, Modules | Bug Fixes, Modules | Powered by ALIEN-ALFA
+[Sohan](https://github.com/Mathiya578) |
+Author , Base, Bug Fixes, Modules | Bug Fixes, Modules | Powered by Mathiya_XDrgon
   </div>
 
 ## Contributors
-`ZIYAN`
-`MIDU-SER`
+`Sohan_Matheesha`
+
 
         
         
